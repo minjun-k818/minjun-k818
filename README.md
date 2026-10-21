@@ -40,6 +40,14 @@ Security & QA  : AEAD Cryptography, Static/Dynamic Analysis, Fuzzing (cargo-fuzz
 
 ---
 
+### 🌐 Ecosystem & Profiles
+
+- **GitHub**: [@minjun-k818](https://github.com/minjun-k818) — Open-source code, personal research, and systems projects.
+- **GitLab**: [@minjun_k818](https://gitlab.com/minjun_k818) — Enterprise pipelines, CI/CD explorations, and private mirrors.
+- **Hugging Face**: [@minjun-k818](https://huggingface.co/minjun-k818) — Neural inference runtimes, model evaluations, and datasets.
+
+---
+
 <details>
 <summary>🌐 <b>Read in other languages / 다국어 소개 (9 Languages Supported)</b></summary>
 <br>
