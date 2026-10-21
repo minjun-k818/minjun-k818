@@ -13,22 +13,6 @@
 
 ---
 
-### 🌐 Select Language / 언어 선택 (10 Languages Supported)
-<p align="left">
-  <a href="#-한국어-korean">🇰🇷 한국어</a> · 
-  <a href="#-english">🇺🇸 English</a> · 
-  <a href="#-日本語-japanese">🇯🇵 日本語</a> · 
-  <a href="#-简体中文-simplified-chinese">🇨🇳 简体中文</a> · 
-  <a href="#-español-spanish">🇪🇸 Español</a> · 
-  <a href="#-français-french">🇫🇷 Français</a> · 
-  <a href="#-deutsch-german">🇩🇪 Deutsch</a> · 
-  <a href="#-português-portuguese">🇧🇷 Português</a> · 
-  <a href="#-русский-russian">🇷🇺 Русский</a> · 
-  <a href="#-العربية-arabic">🇸🇦 العربية</a>
-</p>
-
----
-
 ## 🛠️ Core Engineering Stack
 
 ```
@@ -42,10 +26,6 @@ Security & QA  : AEAD Cryptography, Static/Dynamic Analysis, Fuzzing (cargo-fuzz
 
 ---
 
-<details open>
-<summary><b>🇰🇷 한국어 (Korean)</b></summary>
-<br>
-
 ### 안녕하세요, 소프트웨어 엔지니어 박민준입니다.
 안정성과 고성능이 요구되는 백엔드 시스템 및 저수준 인프라 엔지니어링에 깊은 관심을 가지고 있습니다.
 
@@ -58,9 +38,11 @@ Security & QA  : AEAD Cryptography, Static/Dynamic Analysis, Fuzzing (cargo-fuzz
   - **측정 기반 최적화 (Data-Driven)**: 짐작에 의존하지 않고 프로파일링과 벤치마크 데이터를 바탕으로 성능을 개선합니다.
   - **견고한 코드 장인정신 (Robust Craftsmanship)**: 명확한 책임 분리와 꼼꼼한 테스트로 유지보수하기 쉬운 코드를 작성합니다.
 
-</details>
-
 ---
+
+<details>
+<summary>🌐 <b>Read in other languages / 다국어 소개 (9 Languages Supported)</b></summary>
+<br>
 
 <details>
 <summary><b>🇺🇸 English</b></summary>
@@ -80,8 +62,6 @@ I build reliable, high-performance infrastructure, networking protocols, and sys
 
 </details>
 
----
-
 <details>
 <summary><b>🇯🇵 日本語 (Japanese)</b></summary>
 <br>
@@ -99,8 +79,6 @@ I build reliable, high-performance infrastructure, networking protocols, and sys
   - **保守性の高いコード設計**: 明確なモジュール境界と包括的なテストにより、長期運用に耐えるシステムを構築します。
 
 </details>
-
----
 
 <details>
 <summary><b>🇨🇳 简体中文 (Simplified Chinese)</b></summary>
@@ -120,8 +98,6 @@ I build reliable, high-performance infrastructure, networking protocols, and sys
 
 </details>
 
----
-
 <details>
 <summary><b>🇪🇸 Español (Spanish)</b></summary>
 <br>
@@ -139,8 +115,6 @@ Diseño infraestructuras distribuidas de alto rendimiento, protocolos de red y s
   - **Código limpio y modular**: Software legible, desacoplado y probado para un mantenimiento sostenible a largo plazo.
 
 </details>
-
----
 
 <details>
 <summary><b>🇫🇷 Français (French)</b></summary>
@@ -160,8 +134,6 @@ Je conçois des infrastructures distribuées fiables et performantes ainsi que d
 
 </details>
 
----
-
 <details>
 <summary><b>🇩🇪 Deutsch (German)</b></summary>
 <br>
@@ -179,8 +151,6 @@ Mein Fokus liegt auf hochverfügbaren verteilten Systemen, Netzwerkprotokollen u
   - **Robuste Handwerkskunst**: Modularer, sauber strukturierter und umfassend getesteter Quellcode.
 
 </details>
-
----
 
 <details>
 <summary><b>🇧🇷 Português (Portuguese)</b></summary>
@@ -200,8 +170,6 @@ Focado no desenvolvimento de infraestruturas distribuídas robustas, protocolos 
 
 </details>
 
----
-
 <details>
 <summary><b>🇷🇺 Русский (Russian)</b></summary>
 <br>
@@ -219,8 +187,6 @@ Focado no desenvolvimento de infraestruturas distribuídas robustas, protocolos 
   - **Чистота и модульность кода**: Читаемый, легко тестируемый и поддерживаемый код с четкими границами ответственности.
 
 </details>
-
----
 
 <details>
 <summary><b>🇸🇦 العربية (Arabic)</b></summary>
@@ -241,6 +207,8 @@ Focado no desenvolvimento de infraestruturas distribuídas robustas, protocolos 
   - **الجودة المعيارية للكود**: كتابة تعليمات برمجية واضحة، معيارية، ومغطاة باختبارات شاملة.
 
 </div>
+
+</details>
 
 </details>
 
