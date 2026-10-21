@@ -11,6 +11,23 @@
   <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Infrastructure-success?style=flat-square" alt="Focus" />
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center"><a href="#kr-한국어"><b>KR</b> 한국어</a></td>
+    <td align="center"><a href="#us-english"><b>US</b> English</a></td>
+    <td align="center"><a href="#jp-日本語"><b>JP</b> 日本語</a></td>
+    <td align="center"><a href="#cn-简体中文"><b>CN</b> 简体中文</a></td>
+    <td align="center"><a href="#es-español"><b>ES</b> Español</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="#fr-français"><b>FR</b> Français</a></td>
+    <td align="center"><a href="#de-deutsch"><b>DE</b> Deutsch</a></td>
+    <td align="center"><a href="#ru-русский"><b>RU</b> Русский</a></td>
+    <td align="center"><a href="#br-português"><b>BR</b> Português</a></td>
+    <td align="center"><a href="#sa-العربية"><b>SA</b> العربية</a></td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠️ Core Engineering Stack
@@ -26,7 +43,17 @@ Security & QA  : AEAD Cryptography, Static/Dynamic Analysis, Fuzzing (cargo-fuzz
 
 ---
 
-### 안녕하세요, 소프트웨어 엔지니어 박민준입니다.
+### 🌐 Ecosystem & Profiles
+
+- **GitHub**: [@minjun-k818](https://github.com/minjun-k818) — Open-source code, personal research, and systems projects.
+- **GitLab**: [@minjun_k818](https://gitlab.com/minjun_k818) — Enterprise pipelines, CI/CD explorations, and private mirrors.
+- **Hugging Face**: [@minjun-k818](https://huggingface.co/minjun-k818) — Neural inference runtimes, model evaluations, and datasets.
+
+---
+
+<span id="kr-한국어"></span>
+
+### 🇰🇷 안녕하세요, 소프트웨어 엔지니어 박민준입니다.
 안정성과 고성능이 요구되는 백엔드 시스템 및 저수준 인프라 엔지니어링에 깊은 관심을 가지고 있습니다.
 
 - 🔭 **현재 집중하고 있는 분야**:
@@ -40,20 +67,10 @@ Security & QA  : AEAD Cryptography, Static/Dynamic Analysis, Fuzzing (cargo-fuzz
 
 ---
 
-### 🌐 Ecosystem & Profiles
-
-- **GitHub**: [@minjun-k818](https://github.com/minjun-k818) — Open-source code, personal research, and systems projects.
-- **GitLab**: [@minjun_k818](https://gitlab.com/minjun_k818) — Enterprise pipelines, CI/CD explorations, and private mirrors.
-- **Hugging Face**: [@minjun-k818](https://huggingface.co/minjun-k818) — Neural inference runtimes, model evaluations, and datasets.
-
----
+<span id="us-english"></span>
 
 <details>
-<summary>🌐 <b>Read in other languages / 다국어 소개 (9 Languages Supported)</b></summary>
-<br>
-
-<details>
-<summary><b>🇺🇸 English</b></summary>
+<summary><b>🇺🇸 US English</b></summary>
 <br>
 
 ### Hello! I am Minjun Park, a Systems & Platform Software Engineer.
@@ -70,8 +87,10 @@ I build reliable, high-performance infrastructure, networking protocols, and sys
 
 </details>
 
+<span id="jp-日本語"></span>
+
 <details>
-<summary><b>🇯🇵 日本語 (Japanese)</b></summary>
+<summary><b>🇯🇵 JP 日本語</b></summary>
 <br>
 
 ### はじめまして、ソフトウェアエンジニアのパク・ミンジュン（Minjun Park）です。
@@ -88,8 +107,10 @@ I build reliable, high-performance infrastructure, networking protocols, and sys
 
 </details>
 
+<span id="cn-简体中文"></span>
+
 <details>
-<summary><b>🇨🇳 简体中文 (Simplified Chinese)</b></summary>
+<summary><b>🇨🇳 CN 简体中文</b></summary>
 <br>
 
 ### 你好！我是朴敏俊（Minjun Park），一名系统与平台软件工程师。
@@ -106,8 +127,10 @@ I build reliable, high-performance infrastructure, networking protocols, and sys
 
 </details>
 
+<span id="es-español"></span>
+
 <details>
-<summary><b>🇪🇸 Español (Spanish)</b></summary>
+<summary><b>🇪🇸 ES Español</b></summary>
 <br>
 
 ### ¡Hola! Soy Minjun Park, Ingeniero de Software de Sistemas y Plataformas.
@@ -124,8 +147,10 @@ Diseño infraestructuras distribuidas de alto rendimiento, protocolos de red y s
 
 </details>
 
+<span id="fr-français"></span>
+
 <details>
-<summary><b>🇫🇷 Français (French)</b></summary>
+<summary><b>🇫🇷 FR Français</b></summary>
 <br>
 
 ### Bonjour ! Je suis Minjun Park, ingénieur logiciel systèmes et plateformes.
@@ -142,8 +167,10 @@ Je conçois des infrastructures distribuées fiables et performantes ainsi que d
 
 </details>
 
+<span id="de-deutsch"></span>
+
 <details>
-<summary><b>🇩🇪 Deutsch (German)</b></summary>
+<summary><b>🇩🇪 DE Deutsch</b></summary>
 <br>
 
 ### Hallo! Ich bin Minjun Park, Systems & Platform Software Engineer.
@@ -160,8 +187,10 @@ Mein Fokus liegt auf hochverfügbaren verteilten Systemen, Netzwerkprotokollen u
 
 </details>
 
+<span id="br-português"></span>
+
 <details>
-<summary><b>🇧🇷 Português (Portuguese)</b></summary>
+<summary><b>🇧🇷 BR Português</b></summary>
 <br>
 
 ### Olá! Sou Minjun Park, Engenheiro de Software de Sistemas e Plataformas.
@@ -178,8 +207,10 @@ Focado no desenvolvimento de infraestruturas distribuídas robustas, protocolos 
 
 </details>
 
+<span id="ru-русский"></span>
+
 <details>
-<summary><b>🇷🇺 Русский (Russian)</b></summary>
+<summary><b>🇷🇺 RU Русский</b></summary>
 <br>
 
 ### Здравствуйте! Я Минжун Пак (Minjun Park), инженер системного и платформенного ПО.
@@ -196,8 +227,10 @@ Focado no desenvolvimento de infraestruturas distribuídas robustas, protocolos 
 
 </details>
 
+<span id="sa-العربية"></span>
+
 <details>
-<summary><b>🇸🇦 العربية (Arabic)</b></summary>
+<summary><b>🇸🇦 SA العربية</b></summary>
 <br>
 
 <div dir="rtl">
@@ -215,8 +248,6 @@ Focado no desenvolvimento de infraestruturas distribuídas robustas, protocolos 
   - **الجودة المعيارية للكود**: كتابة تعليمات برمجية واضحة، معيارية، ومغطاة باختبارات شاملة.
 
 </div>
-
-</details>
 
 </details>
 
